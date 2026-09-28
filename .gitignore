@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.ko
+*.mod
+*.mod.c
+*.o
+*.o.cmd
+*.order
+*.symvers
+Module.symvers
+MOK.priv
+MOK.der
